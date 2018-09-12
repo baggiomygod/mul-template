@@ -1,0 +1,9 @@
+{
+    "presets": [
+        "stage-1",
+        "env"
+    ],
+    "plugins":[
+        "syntax-dynamic-import"
+    ]
+}
